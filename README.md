@@ -2,9 +2,9 @@ GitHub Fork Sync Tool
 
 一个强大的 GitHub 复刻仓库同步工具，可以自动将你的复刻仓库与上游原始仓库保持同步，确保你不会错过任何更新。
 
-[!https://img.shields.io/badge/Version-2.0.0-brightgreen.svg]
-[!https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows%20%7C%20Android-blue.svg]
-[!https://img.shields.io/badge/Shell-Bash-yellow.svg]
+https://img.shields.io/badge/Version-2.0.0-brightgreen.svg
+https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows%20%7C%20Android-blue.svg
+https://img.shields.io/badge/Shell-Bash-yellow.svg
 
 🌟 功能特性
 
