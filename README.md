@@ -1,5 +1,7 @@
 # GitHub仓库Fork更新最终版 Tool
 
+[![COOLAPK](https://img.shields.io/badge/%E7%AD%B1%E7%AC%99%E5%A2%A8%E9%9C%B2-%E7%AD%B1%E7%AC%99%E5%A2%A8%E9%9C%B2?style=flat&logo=android&logoColor=FF4500&label=%E9%85%B7%E5%AE%89&color=FF4500
+)](http://www.coolapk.com/u/20080253)
 ![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows%20%7C%20Android-blue.svg)
 ![Shell](https://img.shields.io/badge/Shell-Bash-yellow.svg)
